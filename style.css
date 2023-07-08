@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+
+}
+.banner {
+    background-image: url("/image/banner3.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 810px;
+}
+.head-text {
+        color: white;
+        text-align: right;
+        padding-top: 215px;
+        padding-right: 230px;
+}
+.header{
+        font-size: 65px;
+        font-weight: 700;
+}
+.head-discription{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+.btn{
+    color: #005FAC;
+    width: 160px;
+    height: 64px;
+    border-radius: 5px;
+    margin-top: 20px;
+    font-weight: 600;
+  
+}
